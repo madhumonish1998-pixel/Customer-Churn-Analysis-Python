@@ -1,0 +1,11 @@
+customer_id,gender,tenure,contract_type,monthly_charges,total_charges,tech_support,online_security,payment_method,churn
+1,Female,1,Month-to-month,70,70,No,No,Electronic check,Yes
+2,Male,24,One year,65,1560,Yes,Yes,Credit card,No
+3,Female,3,Month-to-month,80,240,No,No,Electronic check,Yes
+4,Male,48,Two year,90,4320,Yes,Yes,Bank transfer,No
+5,Female,12,Month-to-month,75,900,No,Yes,Credit card,Yes
+6,Male,36,One year,60,2160,Yes,Yes,Bank transfer,No
+7,Female,2,Month-to-month,85,170,No,No,Electronic check,Yes
+8,Male,60,Two year,95,5700,Yes,Yes,Credit card,No
+9,Female,18,One year,68,1224,Yes,No,Bank transfer,No
+10,Male,5,Month-to-month,88,440,No,No,Electronic check,Yes
